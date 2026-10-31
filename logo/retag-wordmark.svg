@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 228 88" width="456" height="176">
+  <title>retag</title>
+  <g fill="none" stroke="#12404F" stroke-width="10" stroke-linecap="round">
+    <path d="M5 60V20M5 42a22 22 0 0 1 22-22"/>
+    <path d="M38 40H78A20 20 0 1 0 72.1 54.1"/>
+    <path d="M98 6V46a14 14 0 0 0 14 14M86 24H112"/>
+    <circle cx="140" cy="40" r="20"/>
+    <path d="M160 18V60"/>
+    <circle cx="200" cy="40" r="20"/>
+    <path d="M220 18V62a18 18 0 0 1-18 18h-8"/>
+  </g>
+  <circle cx="140" cy="40" r="6" fill="#F0A202"/>
+</svg>

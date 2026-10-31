@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <title>Retag</title>
+  <path d="M5.5 3H14a1.5 1.5 0 0 1 1.5 1.5V11.5A1.5 1.5 0 0 1 14 13H5.5A5 5 0 0 1 5.5 3Z" fill="#12404F"/>
+  <circle cx="5.5" cy="8" r="2.4" fill="#F0A202"/>
+  <path d="M10.5 6H13.5M10.5 9.5H12.5" stroke="#9FC6CF" stroke-width="1.4" stroke-linecap="round"/>
+</svg>

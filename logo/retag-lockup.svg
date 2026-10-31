@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 342 88" width="684" height="176">
+  <title>Retag</title>
+  <g transform="translate(-6 -24) scale(0.9)">
+    <path fill-rule="evenodd" fill="#12404F" d="M46 30H106a10 10 0 0 1 10 10V88a10 10 0 0 1-10 10H46A34 34 0 0 1 46 30ZM41.5 64a4.5 4.5 0 1 0 9 0a4.5 4.5 0 1 0-9 0Z"/>
+    <g fill="none" stroke="#3E7A8C" stroke-width="1.6"><circle cx="46" cy="64" r="28"/><circle cx="46" cy="64" r="23"/><circle cx="46" cy="64" r="18"/></g>
+    <path fill-rule="evenodd" fill="#F0A202" d="M33 64a13 13 0 1 0 26 0a13 13 0 1 0-26 0ZM41.5 64a4.5 4.5 0 1 0 9 0a4.5 4.5 0 1 0-9 0Z"/>
+    <path d="M86 51H104M86 64H100M86 77H94" stroke="#9FC6CF" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(114 0)">
+    <g fill="none" stroke="#12404F" stroke-width="10" stroke-linecap="round">
+    <path d="M5 60V20M5 42a22 22 0 0 1 22-22"/>
+    <path d="M38 40H78A20 20 0 1 0 72.1 54.1"/>
+    <path d="M98 6V46a14 14 0 0 0 14 14M86 24H112"/>
+    <circle cx="140" cy="40" r="20"/>
+    <path d="M160 18V60"/>
+    <circle cx="200" cy="40" r="20"/>
+    <path d="M220 18V62a18 18 0 0 1-18 18h-8"/>
+    </g>
+    <circle cx="140" cy="40" r="6" fill="#F0A202"/>
+  </g>
+</svg>

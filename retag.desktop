@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Retag
+GenericName=Music Tag Editor
+Comment=Edit music tags and rename files from tags
+Exec="@DIR@/retag.py" %f
+Icon=@DIR@/logo/retag-icon.svg
+Terminal=false
+Categories=AudioVideo;Audio;
+MimeType=inode/directory;
