@@ -4,6 +4,8 @@
 
 A music tag editor and file renamer. It uses Python 3 + GTK3 + mutagen + Pillow, all of which ship with Linux Mint.
 
+![Retag main window](docs/main-window.png)
+
 ## Install
 
 Download the latest `.deb` from [Releases](https://github.com/donwildman/retag/releases) and run `sudo apt install ./retag_1.0.0_all.deb`.
